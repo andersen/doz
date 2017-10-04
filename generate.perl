@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 
-my @digit = (0..9, 'X', '£');
+my @digit = (0..9, 'x', 'e');
 
 for my $i (1..$ARGV[0]) {
   my $s = "";
