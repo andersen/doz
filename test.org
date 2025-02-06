@@ -1,4 +1,6 @@
 * Adjectives
 ** Combining in interesting ways
-*** 123 [/]
+*** 123 [1/3]
 - [ ] Just a short test :: 123:2,3 124:- 
+- [-] Just another short test :: 123:2,3 124:- 
+- [X] A shorter test :: 123:1,2 124:- 
